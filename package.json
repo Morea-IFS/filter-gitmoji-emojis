@@ -1,0 +1,12 @@
+{
+	"name": "filter-gitmoji-emojis",
+	"version": "1.0.0",
+	"description": "Filter only gitmoji used emojis from list of all emojis possible.",
+	"main": "script.js",
+	"type": "module",
+	"scripts": {
+		"start": "node --experimental-modules script.js"
+	},
+	"author": "felipscarvalho",
+	"license": "ISC"
+}
